@@ -6,3 +6,6 @@
 
 #Restar
 25-30
+
+#Multiplicacion
+5*15
