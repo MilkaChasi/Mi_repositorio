@@ -3,3 +3,6 @@
 
 #Inicio
 1+10
+
+#Restar
+25-30
